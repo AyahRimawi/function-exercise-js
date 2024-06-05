@@ -1,20 +1,25 @@
 
-// let num = prompt('please enter number')
-// function reverseNumber(num) {
-//     alert(num.split('').reverse().join(''))
-// }
-// reverseNumber(num)
+let num = prompt('please enter number')
+function reverseNumber(num) {
+    alert(num.split('').reverse().join(''))
+}
+reverseNumber(num)
 
 
-    
+   
+
+  
 // for (let i = 0; i<=15; i++) {
+//     function num(i){
 //    if (i%2==0) {
-//      console.log('even '+i);
+//      console.log(i+ ' is even');
 //    }
 //    else{
-//     console.log('odd '+i);
+//     console.log(i+ ' is odd');
 //    }
-//     }
+// }  
+// num(i)  
+// }
 
 // let word = prompt('please enter number')
 // function alphabetical(word) {
@@ -44,12 +49,12 @@
 
 
 
-let age = prompt('please enter number')
-function Agechecker(age) {
-   let x = (age>=18) ? alert("Adult")  : alert("Minor");
-    return x
-}
-Agechecker(age)
+// let age = prompt('please enter number')
+// function Agechecker(age) {
+//    let x = (age>=18) ? alert("Adult")  : alert("Minor");
+//     return x
+// }
+// Agechecker(age)
 
 
 
