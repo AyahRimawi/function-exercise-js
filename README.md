@@ -8,4 +8,5 @@
 - prompt
 - join
 - split
-# Link: [function-exercise-js](https://ayahrimawi.github.io/function-exercise-js/)
+# Link: 
+[function-exercise-js](https://ayahrimawi.github.io/function-exercise-js/)
